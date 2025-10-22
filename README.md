@@ -33,11 +33,14 @@ The Hybrid Swarm system creates emergent intelligence through three complementar
 
 ### Setup the @Hybrid-swarm Agent
 
+**⚠️ Setup Required:** First, complete the [Installation](#installation) steps below (includes important folder rename).
+
 The agent is pre-configured in this repository. To use it in Claude Code:
 
-1. **Open this project** in Claude Code (claude.ai/code)
-2. **Type `@Hybrid-swarm`** in your chat to invoke the agent
-3. **Ask your question** - The agent handles everything automatically
+1. **Complete installation** (see [Installation](#installation) section below)
+2. **Open this project** in Claude Code (claude.ai/code)
+3. **Type `@Hybrid-swarm`** in your chat to invoke the agent
+4. **Ask your question** - The agent handles everything automatically
 
 ### Basic Usage
 
@@ -127,17 +130,37 @@ User Task
     Pattern Discovery
 ```
 
-## Quick Start
-
-### Installation
+## Installation
 
 ```bash
-# Clone or copy the Hybrid-swarm directory
+# 1. Clone the repository
+git clone https://github.com/[your-repo]/Hybrid-swarm
 cd Hybrid-swarm
 
-# Install dependencies
+# 2. IMPORTANT: Rename claude folder to .claude
+# (GitHub doesn't allow folders starting with a period, so it's uploaded as "claude")
+# This step is REQUIRED for the @Hybrid-swarm agent to work correctly.
+
+# On macOS/Linux:
+mv claude .claude
+
+# On Windows Command Prompt:
+ren claude .claude
+
+# On Windows PowerShell:
+move claude .claude
+
+# 3. Install dependencies
 pip install -r requirements.txt
 ```
+
+**Why the rename?** The `.claude/agents/` folder contains the agent configuration that Claude Code reads. Since GitHub doesn't allow uploading folders starting with a period, we upload it as `claude` and you rename it to `.claude` after cloning.
+
+## Quick Start
+
+### Installation Complete?
+
+If you've completed the installation steps above, you're ready to use the system.
 
 ### Basic Usage
 
