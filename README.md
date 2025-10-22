@@ -1,6 +1,10 @@
 # Hybrid Swarm Orchestration System
 
-A three-level self-organizing agent coordination system that combines **Adaptive Resonance** (specialist selection), **Dynamic Approaches** (pattern-based approach evolution), and **Stigmergic Coordination** (swarm signals) for intelligent task routing and execution.
+A three-level self-organizing agent coordination system that combines:
+**Adaptive Resonance** (specialist selection), 
+**Dynamic Approaches** (pattern-based approach evolution), and
+**Stigmergic Coordination** (swarm signals) 
+for intelligent task routing and execution.
 
 ## Overview
 
