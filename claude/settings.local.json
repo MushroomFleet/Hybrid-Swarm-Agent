@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python run_hybrid_swarm.py:*)",
+      "Read(//c/Projects/cog-9/Cognition-9/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

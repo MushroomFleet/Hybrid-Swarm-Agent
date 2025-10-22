@@ -1,0 +1,15 @@
+# Hybrid Swarm Orchestration System - Dependencies
+
+# Optional: For adaptive resonance vector operations
+# The system works without numpy, but vector similarity calculations
+# are more efficient with it
+numpy>=1.20.0
+
+# Note: Core functionality uses Python standard library only
+# numpy is only required for src/adaptive_resonance.py
+
+# Install with:
+# pip install -r requirements.txt
+#
+# Or skip if you want stdlib-only operation:
+# The system will work but may be slightly less efficient
