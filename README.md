@@ -134,7 +134,7 @@ User Task
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[your-repo]/Hybrid-swarm
+git clone https://github.com/MushroomFleet/Hybrid-Swarm-Agent
 cd Hybrid-swarm
 
 # 2. IMPORTANT: Rename claude folder to .claude
@@ -404,7 +404,7 @@ See `examples/phase4_demo.py` for complete integration demonstration.
 
 ## License
 
-[Include your license here]
+[MIT]
 
 ## Related Projects
 
@@ -412,16 +412,22 @@ This is a standalone extraction from the Cognition-9 multi-agent orchestration s
 
 Original repository: https://github.com/MushroomFleet/Cognition-9
 
-## Contributing
 
-[Include contribution guidelines if applicable]
+### Academic Citation
 
-## Citation
+If you use this codebase in your research or project, please cite:
 
-If you use this system in your research or project, please cite:
-
+```bibtex
+@software{hybrid_swarm_agent,
+  title = {Hybrid Swarm Agent: Adaptive Dynamic Stigmergic},
+  author = {[Drift Johnson]},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/Hybrid-Swarm-Agent},
+  version = {1.0.0}
+}
 ```
-Hybrid Swarm Orchestration System
-Three-Level Emergent Intelligence
-Adaptive Resonance + Dynamic Approaches + Stigmergic Coordination
-https://github.com/[your-repo]/Hybrid-swarm
+
+### Donate:
+
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
