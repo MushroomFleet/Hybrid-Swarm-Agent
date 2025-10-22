@@ -1,0 +1,121 @@
+{
+  "id": "legacy_approach_A_comprehensive",
+  "name": "Comprehensive Research (Legacy A)",
+  "version": 1,
+  "created_at": "2025-10-22T05:08:11.949178",
+  "last_updated": "2025-10-22T05:43:10.370945",
+  "pattern_signature": {
+    "domain_weights": {
+      "research": 0.9,
+      "writing": 0.6,
+      "comparison": 0.7,
+      "review": 0.5
+    },
+    "complexity_min": 0.5,
+    "complexity_max": 1.0,
+    "keyword_patterns": [
+      "research",
+      "investigate",
+      "analyze",
+      "study",
+      "explore",
+      "comprehensive"
+    ],
+    "keyword_weights": {
+      "research": 0.9,
+      "investigate": 0.8,
+      "analyze": 0.8,
+      "study": 0.7,
+      "explore": 0.7,
+      "comprehensive": 0.8
+    },
+    "output_types": [
+      "explanation",
+      "analysis",
+      "research",
+      "comparison"
+    ],
+    "requires_code": false,
+    "requires_examples": true,
+    "requires_theory": true
+  },
+  "style_characteristics": {
+    "structure_type": "hierarchical",
+    "section_count": [
+      4,
+      8
+    ],
+    "tone": "formal",
+    "voice": "third_person",
+    "depth_level": "comprehensive",
+    "explanation_style": "conceptual",
+    "example_density": "medium",
+    "code_style": null,
+    "use_headers": true,
+    "use_bullets": true,
+    "use_numbered_lists": false,
+    "use_tables": true,
+    "include_summary": true,
+    "include_tldr": false,
+    "include_prerequisites": false,
+    "include_next_steps": true
+  },
+  "performance_metrics": {
+    "usage_count": 8,
+    "first_used": "2025-10-22T05:08:11.949178",
+    "last_used": "2025-10-22T05:43:10.370945",
+    "avg_quality": 0.6115971748469092,
+    "min_quality": 0.6,
+    "max_quality": 0.6785495529855088,
+    "quality_std_dev": 0.020254717051813597,
+    "success_count": 0,
+    "failure_count": 8,
+    "success_rate": 0.0,
+    "vs_alternatives": {},
+    "recent_quality_trend": "new",
+    "quality_history": [
+      [
+        "2025-10-22T05:43:10.359643",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.361642",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.363940",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.364940",
+        0.6570373349848807
+      ],
+      [
+        "2025-10-22T05:43:10.366940",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.367947",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.369945",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.370945",
+        0.6785495529855088
+      ]
+    ]
+  },
+  "parent_id": null,
+  "generation": 0,
+  "tags": [
+    "legacy",
+    "research",
+    "comprehensive",
+    "formal",
+    "analysis"
+  ],
+  "active": true
+}

@@ -1,0 +1,122 @@
+{
+  "id": "legacy_approach_B_tutorial",
+  "name": "Step-by-Step Tutorial (Legacy B)",
+  "version": 1,
+  "created_at": "2025-10-22T05:08:11.949178",
+  "last_updated": "2025-10-22T05:43:10.388598",
+  "pattern_signature": {
+    "domain_weights": {
+      "writing": 0.9,
+      "coding": 0.7,
+      "research": 0.3
+    },
+    "complexity_min": 0.3,
+    "complexity_max": 0.8,
+    "keyword_patterns": [
+      "tutorial",
+      "guide",
+      "how to",
+      "step",
+      "learn"
+    ],
+    "keyword_weights": {
+      "tutorial": 0.9,
+      "guide": 0.8,
+      "how to": 0.9,
+      "step": 0.8,
+      "learn": 0.7
+    },
+    "output_types": [
+      "tutorial",
+      "guide",
+      "walkthrough",
+      "explanation"
+    ],
+    "requires_code": true,
+    "requires_examples": true,
+    "requires_theory": false
+  },
+  "style_characteristics": {
+    "structure_type": "sequential_steps",
+    "section_count": [
+      3,
+      7
+    ],
+    "tone": "educational",
+    "voice": "second_person",
+    "depth_level": "moderate",
+    "explanation_style": "practical",
+    "example_density": "high",
+    "code_style": "annotated",
+    "use_headers": true,
+    "use_bullets": false,
+    "use_numbered_lists": true,
+    "use_tables": false,
+    "include_summary": true,
+    "include_tldr": false,
+    "include_prerequisites": true,
+    "include_next_steps": true
+  },
+  "performance_metrics": {
+    "usage_count": 9,
+    "first_used": "2025-10-22T05:08:11.949178",
+    "last_used": "2025-10-22T05:43:10.388598",
+    "avg_quality": 0.6026074141362754,
+    "min_quality": 0.6,
+    "max_quality": 0.637436965794758,
+    "quality_std_dev": 0.012772364818864873,
+    "success_count": 0,
+    "failure_count": 9,
+    "success_rate": 0.0,
+    "vs_alternatives": {},
+    "recent_quality_trend": "new",
+    "quality_history": [
+      [
+        "2025-10-22T05:43:10.372945",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.376070",
+        0.6102103154943482
+      ],
+      [
+        "2025-10-22T05:43:10.378587",
+        0.637436965794758
+      ],
+      [
+        "2025-10-22T05:43:10.379584",
+        0.6021931625850633
+      ],
+      [
+        "2025-10-22T05:43:10.382088",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.383601",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.384600",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.386598",
+        0.6
+      ],
+      [
+        "2025-10-22T05:43:10.388598",
+        0.6
+      ]
+    ]
+  },
+  "parent_id": null,
+  "generation": 0,
+  "tags": [
+    "legacy",
+    "tutorial",
+    "step-by-step",
+    "educational",
+    "practical"
+  ],
+  "active": true
+}

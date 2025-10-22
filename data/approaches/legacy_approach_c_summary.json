@@ -1,0 +1,86 @@
+{
+  "id": "legacy_approach_C_summary",
+  "name": "Summary & Key Points (Legacy C)",
+  "version": 1,
+  "created_at": "2025-10-22T05:08:11.949178",
+  "last_updated": "2025-10-22T05:08:11.949178",
+  "pattern_signature": {
+    "domain_weights": {
+      "writing": 0.7,
+      "research": 0.6,
+      "review": 0.8,
+      "comparison": 0.6
+    },
+    "complexity_min": 0.2,
+    "complexity_max": 0.6,
+    "keyword_patterns": [
+      "summary",
+      "list",
+      "quick",
+      "overview",
+      "key points"
+    ],
+    "keyword_weights": {
+      "summary": 0.9,
+      "list": 0.7,
+      "quick": 0.8,
+      "overview": 0.8,
+      "key points": 0.9
+    },
+    "output_types": [
+      "list",
+      "summary",
+      "overview",
+      "explanation"
+    ],
+    "requires_code": false,
+    "requires_examples": true,
+    "requires_theory": false
+  },
+  "style_characteristics": {
+    "structure_type": "bulleted",
+    "section_count": [
+      2,
+      5
+    ],
+    "tone": "casual",
+    "voice": "second_person",
+    "depth_level": "concise",
+    "explanation_style": "practical",
+    "example_density": "low",
+    "code_style": "minimal",
+    "use_headers": true,
+    "use_bullets": true,
+    "use_numbered_lists": false,
+    "use_tables": true,
+    "include_summary": true,
+    "include_tldr": true,
+    "include_prerequisites": false,
+    "include_next_steps": false
+  },
+  "performance_metrics": {
+    "usage_count": 0,
+    "first_used": "2025-10-22T05:08:11.949178",
+    "last_used": "2025-10-22T05:08:11.949178",
+    "avg_quality": 0.0,
+    "min_quality": 0.0,
+    "max_quality": 0.0,
+    "quality_std_dev": 0.0,
+    "success_count": 0,
+    "failure_count": 0,
+    "success_rate": 0.0,
+    "vs_alternatives": {},
+    "recent_quality_trend": "new",
+    "quality_history": []
+  },
+  "parent_id": null,
+  "generation": 0,
+  "tags": [
+    "legacy",
+    "summary",
+    "concise",
+    "quick-reference",
+    "bullets"
+  ],
+  "active": true
+}

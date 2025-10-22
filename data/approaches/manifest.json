@@ -1,0 +1,82 @@
+{
+  "version": "1.0",
+  "created_at": "2025-10-22T04:59:52.794170",
+  "last_updated": "2025-10-22T06:15:20.794784",
+  "total_approaches": 8,
+  "active_approaches": 7,
+  "deprecated_approaches": 1,
+  "approaches": [
+    {
+      "id": "test_storage_approach",
+      "name": "Test Storage Approach",
+      "file": "test_storage_approach.json",
+      "active": false,
+      "usage_count": 5,
+      "avg_quality": 0.85,
+      "last_updated": "2025-10-22T05:01:53.115958"
+    },
+    {
+      "id": "demo_tutorial_approach",
+      "name": "Demo Tutorial Approach",
+      "file": "demo_tutorial_approach.json",
+      "active": true,
+      "usage_count": 14,
+      "avg_quality": 0.8682549171892532,
+      "last_updated": "2025-10-22T06:15:20.663826"
+    },
+    {
+      "id": "legacy_approach_A_comprehensive",
+      "name": "Comprehensive Research (Legacy A)",
+      "file": "legacy_approach_a_comprehensive.json",
+      "active": true,
+      "usage_count": 8,
+      "avg_quality": 0.6115971748469092,
+      "last_updated": "2025-10-22T05:43:10.370945"
+    },
+    {
+      "id": "legacy_approach_B_tutorial",
+      "name": "Step-by-Step Tutorial (Legacy B)",
+      "file": "legacy_approach_b_tutorial.json",
+      "active": true,
+      "usage_count": 9,
+      "avg_quality": 0.6026074141362754,
+      "last_updated": "2025-10-22T05:43:10.388598"
+    },
+    {
+      "id": "legacy_approach_C_summary",
+      "name": "Summary & Key Points (Legacy C)",
+      "file": "legacy_approach_c_summary.json",
+      "active": true,
+      "usage_count": 0,
+      "avg_quality": 0.0,
+      "last_updated": "2025-10-22T05:08:11.949178"
+    },
+    {
+      "id": "approach_writing_tutorial_sequentialsteps",
+      "name": "Educational Step-by-Step Tutorial (Writing)",
+      "file": "approach_writing_tutorial_sequentialsteps.json",
+      "active": true,
+      "usage_count": 0,
+      "avg_quality": 0.8819212763131036,
+      "last_updated": "2025-10-22T05:43:10.268838"
+    },
+    {
+      "id": "approach_coding_explain_bulleted",
+      "name": "Technical List-Based Explanation (Coding)",
+      "file": "approach_coding_explain_bulleted.json",
+      "active": true,
+      "usage_count": 2,
+      "avg_quality": 0.82,
+      "last_updated": "2025-10-22T06:15:20.793662"
+    },
+    {
+      "id": "approach_analysis_compare_bulleted",
+      "name": "Neutral List-Based Comparison (Analysis)",
+      "file": "approach_analysis_compare_bulleted.json",
+      "active": true,
+      "usage_count": 0,
+      "avg_quality": 0.8570910873620747,
+      "last_updated": "2025-10-22T05:43:10.275018"
+    }
+  ]
+}
