@@ -3,7 +3,7 @@
   "name": "Comprehensive Research (Legacy A)",
   "version": 1,
   "created_at": "2025-10-22T05:08:11.949178",
-  "last_updated": "2025-10-22T05:43:10.370945",
+  "last_updated": "2025-10-22T22:05:26.296083",
   "pattern_signature": {
     "domain_weights": {
       "research": 0.9,
@@ -61,18 +61,18 @@
     "include_next_steps": true
   },
   "performance_metrics": {
-    "usage_count": 8,
+    "usage_count": 10,
     "first_used": "2025-10-22T05:08:11.949178",
-    "last_used": "2025-10-22T05:43:10.370945",
+    "last_used": "2025-10-22T22:05:26.296035",
     "avg_quality": 0.6115971748469092,
     "min_quality": 0.6,
     "max_quality": 0.6785495529855088,
-    "quality_std_dev": 0.020254717051813597,
-    "success_count": 0,
+    "quality_std_dev": 0.028585924816161658,
+    "success_count": 2,
     "failure_count": 8,
-    "success_rate": 0.0,
+    "success_rate": 0.2,
     "vs_alternatives": {},
-    "recent_quality_trend": "new",
+    "recent_quality_trend": "stable",
     "quality_history": [
       [
         "2025-10-22T05:43:10.359643",
@@ -105,6 +105,14 @@
       [
         "2025-10-22T05:43:10.370945",
         0.6785495529855088
+      ],
+      [
+        "2025-10-22T22:02:49.894550",
+        0.6115971748469092
+      ],
+      [
+        "2025-10-22T22:05:26.296070",
+        0.6115971748469092
       ]
     ]
   },

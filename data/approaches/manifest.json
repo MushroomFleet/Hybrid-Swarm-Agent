@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "created_at": "2025-10-22T04:59:52.794170",
-  "last_updated": "2025-10-22T06:15:20.794784",
+  "last_updated": "2025-10-22T22:05:26.296595",
   "total_approaches": 8,
   "active_approaches": 7,
   "deprecated_approaches": 1,
@@ -29,9 +29,9 @@
       "name": "Comprehensive Research (Legacy A)",
       "file": "legacy_approach_a_comprehensive.json",
       "active": true,
-      "usage_count": 8,
+      "usage_count": 10,
       "avg_quality": 0.6115971748469092,
-      "last_updated": "2025-10-22T05:43:10.370945"
+      "last_updated": "2025-10-22T22:05:26.296083"
     },
     {
       "id": "legacy_approach_B_tutorial",
