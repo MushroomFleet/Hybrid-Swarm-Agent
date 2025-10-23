@@ -119,6 +119,11 @@ Quality Scale:
     )
     
     parser.add_argument(
+        '--approach-id',
+        help='Approach ID that was used (required for dynamic approaches)'
+    )
+    
+    parser.add_argument(
         '--success',
         action='store_true',
         default=True,
@@ -151,6 +156,7 @@ Quality Scale:
             task_id=args.task_id,
             specialist_id=args.specialist,
             quality=args.quality,
+            approach_id=args.approach_id,
             success=args.success
         )
         
